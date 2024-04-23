@@ -1,0 +1,71 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./images/product-chain-1.png",
+            "title": "Front-End",
+            "descreption": "As a seasoned Front-End Developer, I specialize in crafting visually stunning and highly interactive user interfaces. My expertise lies in translating design concepts into pixel-perfect, responsive web applications. Proficient in HTML, CSS, JavaScript,  and React, I bring user-centric design principles to life, ensuring seamless and engaging user experiences across various devices and browsers."
+        },
+        {
+            "id": "2",
+            "src": "./images/tag-1.png",
+            "title": "Back-End",
+            "descreption": "As an experienced Back-End Developer, I specialize in building robust server-side applications that power seamless and scalable digital experiences. Proficient in languages such as Python,  I focus on developing efficient and secure APIs, managing databases, and implementing complex business logic. My goal is to create a solid foundation that ensures the smooth functioning of web applications and facilitates data processing and storage."
+        },
+        {
+            "id": "3",
+            "src": "./images/feather-pen-2.png",
+            "title": "Network Analaysis",
+            "descreption": "As a skilled Network Analyst, I specialize in examining and optimizing the structure and performance of computer networks. Proficient in utilizing tools like Wireshark and analyzing protocols such as TCP/IP, I ensure the seamless flow of data, troubleshoot network issues, and implement robust security measures. My expertise extends to designing and maintaining network infrastructures that support efficient communication and collaboration across diverse systems."
+        }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./images/placeholder-image-1.png",
+            "title": "APP dashboard",
+            "descreption": "lorem is the back of the great design about each other to gether",
+            "link": "View In Github"
+        },
+        {
+            "id": "2",
+            "src": "./images/placeholder-image-2.png",
+            "title": "Easy Rentn",
+            "descreption": "lorem is the back of the great design about each other to gether",
+            "link": "View In Github"
+        },
+        {
+            "id": "3",
+            "src": "./images/placeholder-image.png",
+            "title": "Ahuse",
+            "descreption": "lorem is the back of the great design about each other to gether",
+            "link": "View In Github"
+        }
+    ],
+    "testimoials": [
+        {
+            "id": "1",
+            "count": "5",
+            "src": "./images/feather-pen-1.png",
+            "descreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis reiciendis adipisci hic expedita in ea recusandae, assumenda possimus dignissimos quisquam ab omnis maxime cum! Accusantium est labore ea nulla fugiat.",
+            "author_name":"belay",
+            "author_destination":"E-Librery"
+        },
+        {
+            "id": "1",
+            "count": "5",
+            "src": "./images/feather-pen-1.png",
+            "descreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis reiciendis adipisci hic expedita in ea recusandae, assumenda possimus dignissimos quisquam ab omnis maxime cum! Accusantium est labore ea nulla fugiat.",
+            "author_name":"belay",
+            "author_destination":"E-Librery"
+        },
+        {
+            "id": "1",
+            "count": "5",
+            "src": "./images/feather-pen-1.png",
+            "descreption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis reiciendis adipisci hic expedita in ea recusandae, assumenda possimus dignissimos quisquam ab omnis maxime cum! Accusantium est labore ea nulla fugiat.",
+            "author_name":"belay",
+            "author_destination":"E-Librery"
+        }
+    ]
+}
